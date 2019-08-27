@@ -6,6 +6,8 @@ The base API for a p2p scholarly communication infrastructure. More
 information on this infrastructure is available in this [conceptual
 publication](https://doi.org/10.3390/publications6020021) and this
 [technical publication](https://chartgerink.github.io/2018dat-com/)
+
+### and incase the above dissapears: [Click Here](https://github.com/SignalHub-Ecosystem/2018dat-com)
 (note these might have been extended by now).
 
 ## Usage
