@@ -14,7 +14,7 @@ This is an `npm` module that does not export any processes to your
 global environment. In other words, it is a module that you can use in
 your NodeJS packages, but does not provide any direct functionality
 outside of it. If you are looking for a Command Line Interface (CLI),
-[we got you covered](https://github.com/libscie/cli).
+[we got you covered](https://github.com/SignalHub-Ecosystem/cli).
 
 ## Installation
 
